@@ -1,0 +1,22 @@
+.nav-link:hover
+{
+color:red !important;
+}
+#header
+{
+    background-color:white;
+    background-size: cover;
+    height:100vh;
+}
+#top
+{
+    font-family:Verdana;
+}
+.side
+{
+    float:right;
+    margin-left: 2cm;
+    border-color: brown;
+    width: 200px;
+    height: 200px;
+}
